@@ -1,0 +1,2 @@
+# gpt_cchess_pytorch
+基于bert4torch框架，gpt下象棋的pytorch简洁实现
